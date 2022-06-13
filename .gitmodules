@@ -1,7 +1,6 @@
-[submodule "Fibers Tracker"]
-	path = tracker
-	url = https://github.com/aleksandar-veljkovic/fibers-tracker
-
-[submodule "Fibers Node"]
-	path = node
+[submodule "fibers-node"]
+	path = fibers-node
 	url = https://github.com/aleksandar-veljkovic/fibers-node
+[submodule "fibers-tracker"]
+	path = fibers-tracker
+	url = https://github.com/aleksandar-veljkovic/fibers-tracker
