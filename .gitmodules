@@ -4,3 +4,6 @@
 [submodule "fibers-tracker"]
 	path = fibers-tracker
 	url = https://github.com/aleksandar-veljkovic/fibers-tracker
+[submodule "fibers-ui"]
+	path = fibers-ui
+	url = https://github.com/aleksandar-veljkovic/fibers-ui
