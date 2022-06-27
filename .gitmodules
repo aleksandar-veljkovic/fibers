@@ -7,3 +7,6 @@
 [submodule "fibers-ui"]
 	path = fibers-ui
 	url = https://github.com/aleksandar-veljkovic/fibers-ui
+[submodule "fibers-navigator"]
+	path = fibers-navigator
+	url = https://github.com/aleksandar-veljkovic/fibers-navigator
